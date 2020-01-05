@@ -1,0 +1,19 @@
+{
+  "name": "ennachat",
+  "version": "1.0.0",
+  "description": "application au sein de l'entreprise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ENNA-Groupe/ennachat.git"
+  },
+  "author": "enna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ENNA-Groupe/ennachat/issues"
+  },
+  "homepage": "https://github.com/ENNA-Groupe/ennachat#readme"
+}
